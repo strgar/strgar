@@ -23,22 +23,22 @@
 
 ## 📊 GitHub Stats (Auto Update)
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[username]&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[username]&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=strgar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=strgar&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
 ## 🔥 GitHub Streak
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=[username]&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=strgar&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
 ## 🐍 Contribution Snake (ANIMASI 🔥)
 <p align="center">
-  <img src="https://raw.githubusercontent.com/[username]/[username]/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/strgar/strgar/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
