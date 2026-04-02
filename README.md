@@ -1,7 +1,7 @@
 <h1 align="center">⚡ Hey, I'm Tegar Putu Satria ⚡</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Frontend+Developer+⚡;React+Enthusiast+🔥;Building+Crazy+Stuff+🚀;Welcome+To+My+Universe+🌌" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Fullstack+Developer+⚡;React+Enthusiast+🔥;Building+Crazy+Stuff+🚀;Welcome+To+My+Universe+🌌" />
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:007CF0&height=140&section=header"/>
@@ -12,7 +12,7 @@
 
 ```js
 const tegar = {
-  role: "Frontend Developer",
+  role: "Fullstack Developer",
   projects: ["POM", "ISEMS"],
   tech: ["React", "JavaScript", "Node.js"],
   vibe: "Late night coding 🌙 + Music 🎧"
