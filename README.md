@@ -1,106 +1,187 @@
-<h1 align="center">⚡ Hey, I'm Tegar Putu Satria ⚡</h1>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Fullstack+Developer+⚡;React+Enthusiast+🔥;Building+Crazy+Stuff+🚀;Welcome+To+My+Universe+🌌" />
-</p>
+# Tegar Putu Satria
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:007CF0&height=140&section=header"/>
+```txt
+> booting developer profile...
+> loading stack: React, Node.js, Express, MySQL
+> status: building real-world systems
+> mode: clean code, late night debugging, linux terminal
+```
+
+</div>
 
 ---
 
-## 👨‍💻 About Me
+## ./profile
 
 ```js
 const tegar = {
+  name: "Tegar Putu Satria",
   role: "Fullstack Developer",
-  projects: ["POM", "ISEMS"],
-  tech: ["React", "JavaScript", "Node.js"],
-  vibe: "Late night coding 🌙 + Music 🎧"
+  focus: [
+    "Web Application Development",
+    "Dashboard & Monitoring System",
+    "Backend API",
+    "Realtime System",
+    "Automation"
+  ],
+  currentWork: [
+    "ISEMS",
+    "POM",
+    "People Counting System",
+    "Automatic AC Control"
+  ],
+  mainStack: {
+    frontend: ["React", "JavaScript", "Tailwind CSS"],
+    backend: ["Node.js", "Express.js"],
+    database: ["MySQL"],
+    tools: ["Git", "GitHub", "VS Code", "Linux"]
+  },
+  learning: [
+    "System Design",
+    "Backend Architecture",
+    "Clean Code",
+    "Realtime Communication"
+  ]
 };
 ```
 
 ---
 
-## 🛠️ Tech Stack
+## ./what-i-build
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,js,nodejs,express,mysql,git,github,vscode&theme=dark" />
-</p>
+```txt
+Web Apps              -> admin panels, dashboards, internal tools
+Backend Services      -> REST API, auth, filtering, data processing
+Realtime Systems      -> WebSocket, MQTT, monitoring dashboard
+Automation            -> people counting, AC control, scheduled process
+Database              -> query design, relation mapping, reporting data
+```
 
----
-
-## 🧠 Random Dev Quote
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</p>
+I like building systems that are not only working, but also structured, maintainable, and useful in real cases.
 
 ---
 
-## 📊 GitHub Stats
+## ./stack
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=strgar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=strgar&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+<div align="center">
 
----
+<img src="https://skillicons.dev/icons?i=react,js,nodejs,express,mysql,git,github,vscode,linux&theme=dark" />
 
-## 🔥 Streak Stats
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=strgar&theme=tokyonight&hide_border=true" />
-</p>
+</div>
 
 ---
 
-## 📈 Activity Graph (Live)
+## ./current-focus
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=strgar&theme=tokyo-night&hide_border=true" />
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/strgar/strgar/output/github-contribution-grid-snake.svg" />
-</p>
+```txt
+[1] Improving React project structure
+[2] Building cleaner backend architecture
+[3] Working with realtime data from devices
+[4] Designing dashboard systems for monitoring
+[5] Writing code that is easier to maintain
+```
 
 ---
 
-## 👀 Visitor Counter
+## ./projects
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=strgar&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
+<table>
+  <tr>
+    <td width="50%">
+      <h3>ISEMS</h3>
+      <p>
+        Internal system with backend API, authentication, data filtering,
+        MySQL queries, and role-based access flow.
+      </p>
+    </td>
+    <td width="50%">
+      <h3>POM</h3>
+      <p>
+        Web-based system focused on structured data management,
+        dashboard features, and frontend/backend integration.
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>People Counting System</h3>
+      <p>
+        Camera-based people counting system using Python service,
+        MQTT communication, and realtime data processing.
+      </p>
+    </td>
+    <td width="50%">
+      <h3>Automatic AC Control</h3>
+      <p>
+        Backend automation system that controls AC based on room occupancy,
+        rules, delay logic, and realtime dashboard status.
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 🌐 Connect With Me
+## ./github-status
 
-<p align="center">
-  <a href="https://linkedin.com/in/tgarputustr">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://instagram.com/tgarputustr">
-    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-</p>
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=strgar&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=strgar&layout=compact&theme=github_dark&hide_border=true" />
+
+</div>
 
 ---
 
-## 🎵 Spotify (Optional)
+## ./activity
 
-<p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=SPOTIFY_ID_KAMU&cover_image=true&theme=novatorem" />
-</p>
+<div align="center">
 
----
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=strgar&theme=github-dark&hide_border=true&area=true" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:007CF0,100:00F7FF&height=140&section=footer"/>
+</div>
 
 ---
 
-🔥 **Welcome to my profile — where code meets creativity 🚀**
+## ./contribution
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/strgar/strgar/output/github-contribution-grid-snake.svg" />
+
+</div>
+
+---
+
+## ./connect
+
+<div align="center">
+
+<a href="https://linkedin.com/in/tgarputustr">
+  <img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
+</a>
+
+<a href="https://instagram.com/tgarputustr">
+  <img src="https://img.shields.io/badge/Instagram-111111?style=for-the-badge&logo=instagram&logoColor=E4405F" />
+</a>
+
+<a href="https://github.com/strgar">
+  <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+```txt
+clean interface
+structured backend
+realtime data
+useful system
+```
+
+</div>
