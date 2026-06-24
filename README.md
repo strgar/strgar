@@ -19,19 +19,6 @@
 const tegar = {
   name: "Tegar Putu Satria",
   role: "Fullstack Developer",
-  focus: [
-    "Web Application Development",
-    "Dashboard & Monitoring System",
-    "Backend API",
-    "Realtime System",
-    "Automation"
-  ],
-  currentWork: [
-    "ISEMS",
-    "POM",
-    "People Counting System",
-    "Automatic AC Control"
-  ],
   mainStack: {
     frontend: ["React", "JavaScript", "Tailwind CSS"],
     backend: ["Node.js", "Express.js"],
