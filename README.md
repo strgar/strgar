@@ -70,46 +70,6 @@ I like building systems that are not only working, but also structured, maintain
 [5] Writing code that is easier to maintain
 ```
 
----
-
-## ./projects
-
-<table>
-  <tr>
-    <td width="50%">
-      <h3>ISEMS</h3>
-      <p>
-        Internal system with backend API, authentication, data filtering,
-        MySQL queries, and role-based access flow.
-      </p>
-    </td>
-    <td width="50%">
-      <h3>POM</h3>
-      <p>
-        Web-based system focused on structured data management,
-        dashboard features, and frontend/backend integration.
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3>People Counting System</h3>
-      <p>
-        Camera-based people counting system using Python service,
-        MQTT communication, and realtime data processing.
-      </p>
-    </td>
-    <td width="50%">
-      <h3>Automatic AC Control</h3>
-      <p>
-        Backend automation system that controls AC based on room occupancy,
-        rules, delay logic, and realtime dashboard status.
-      </p>
-    </td>
-  </tr>
-</table>
-
----
 
 ## ./github-status
 
